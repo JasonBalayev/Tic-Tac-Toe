@@ -27,7 +27,7 @@ The **Minimax Algorithm** is a decision-making algorithm used in turn-based game
 3. The algorithm simulates each possible move, recursively determining the outcome of each move until the end of the game (win, lose, or draw).
 4. **Formula**:
    
-   ![Minimax Algorithm Formula](path_to_images_folder/mmalgo.png)
+   ![Minimax Algorithm Formula](mmalgo.png)
    
    The formula shows that the AI selects the move \( a_i \) that maximizes its chances while assuming the opponent selects the move \( a_{-i} \) that minimizes the AI’s chances.
 
