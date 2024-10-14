@@ -5,6 +5,7 @@ This project implements a Tic-Tac-Toe game that uses the **Minimax Algorithm** t
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Minimax Algorithm](#minimax-algorithm)
+- [Tic-Tac-Toe Frontend](#tic-tac-toe-game-play)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 
@@ -33,7 +34,9 @@ The **Minimax Algorithm** is a decision-making algorithm used in turn-based game
 
    - **Max Function**: Chooses the maximum possible gain for the AI.
    - **Min Function**: Simulates the opponent picking the move that minimizes the AI’s advantage.
-  
+
+### Tic-Tac-Toe Game Play
+
 Below is an empty game grid for the Tic-Tac-Toe:
 
 ![Empty Game Grid](ttt.png)
