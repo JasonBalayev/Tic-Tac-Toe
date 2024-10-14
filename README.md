@@ -47,7 +47,7 @@ Below is the example of a game where player O wins (Bot):
 
 Below is an example of the game actually being played within a 3x3 grid:
 
-![Local Host](TTT.mp4)
+[Local Host](TTT.mp4)
 
 
 
