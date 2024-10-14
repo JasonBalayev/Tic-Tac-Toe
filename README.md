@@ -45,6 +45,11 @@ Below is the example of a game where player O wins (Bot):
 
 ![Player O Wins](tttAI.png)
 
+Below is an example of the game actually being played within a 3x3 grid:
+
+![Local Host](TTT.mp4)
+
+
 
 
 ### Why Minimax in Tic-Tac-Toe?
