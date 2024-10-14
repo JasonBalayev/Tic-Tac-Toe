@@ -33,6 +33,16 @@ The **Minimax Algorithm** is a decision-making algorithm used in turn-based game
 
    - **Max Function**: Chooses the maximum possible gain for the AI.
    - **Min Function**: Simulates the opponent picking the move that minimizes the AI’s advantage.
+  
+Below is an empty game grid for the Tic-Tac-Toe:
+
+![Empty Game Grid](ttt.png)
+
+Below is the example of a game where player O wins (Bot):
+
+![Player O Wins](AI.png)
+
+
 
 ### Why Minimax in Tic-Tac-Toe?
 
