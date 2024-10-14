@@ -7,10 +7,7 @@ This project implements a Tic-Tac-Toe game that uses the **Minimax Algorithm** t
 - [Minimax Algorithm](#minimax-algorithm)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
