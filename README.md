@@ -40,7 +40,7 @@ Below is an empty game grid for the Tic-Tac-Toe:
 
 Below is the example of a game where player O wins (Bot):
 
-![Player O Wins](AI.png)
+![Player O Wins](tttAI.png)
 
 
 
